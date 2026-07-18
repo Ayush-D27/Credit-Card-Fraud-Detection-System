@@ -60,25 +60,25 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   ```bash
+   git clone https://github.com/Ayush-D27/Credit-Card-Fraud-Detection-System.git
    ```
 
 2. Navigate to project folder:
 
-   ```
-   cd credit-card-fraud-detection
+   ```bash
+   cd Credit-Card-Fraud-Detection-System
    ```
 
 3. Install required libraries:
 
-   ```
+   ```bash
    pip install streamlit numpy scikit-learn joblib
    ```
 
 4. Run the application:
 
-   ```
+   ```bash
    python -m streamlit run app.py
    ```
 
@@ -91,5 +91,3 @@ Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 * Model deployment using Streamlit
 * Integration of ML model with frontend
 * Version control using Git and GitHub
-
-##
